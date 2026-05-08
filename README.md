@@ -1,2 +1,2 @@
-# meu-site
-Site criado por Giovane
+Plataforma de Estudos
+Plataforma de estudos de Biologia, Química e Medicina.
